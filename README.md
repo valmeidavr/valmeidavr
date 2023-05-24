@@ -27,5 +27,18 @@
   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg">
   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg">
     <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-plain-wordmark.svg">
-    <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">  <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg">  <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
+    <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg">  
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/unrealengine/unrealengine-original-wordmark.svg">  
+  <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-plain-wordmark.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-plain-wordmark.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-plain-wordmark.svg">
+  
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original-wordmark.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg">
+   <img align="center" alt="AdonisJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original-wordmark.svg">
 </div>
